@@ -8,19 +8,19 @@
 ![Protótipo – Página Contato](img/pagContatoprot.png)
 
   ### Página Detalhes  
-![Protótipo – Página Detalhes](img/pagDetalhesprot)
+![Protótipo – Página Detalhes](img/pagDetalhesprot.png)
 
 ---
 
 ## 🖥️ Implementação em HTML/CSS  
 ### Página Inicial  
-![HTML – Página Inicial](img/pagInicialproj)
+![HTML – Página Inicial](img/pagInicialproj.png)
 
 ### Página Contato  
-![HTML – Página Contato](img/pagContatoproj)
+![HTML – Página Contato](img/pagContatoproj.png)
 
 ### Página Detalhes  
-![HTML – Página Detalhes](img/pagDetalhesproj)
+![HTML – Página Detalhes](img/pagDetalhesproj.png)
 
 ---
 
