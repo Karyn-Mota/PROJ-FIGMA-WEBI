@@ -5,7 +5,7 @@
 ![Protótipo – Página Inicial](img/pagInicialprot.png)
 
 ### Página Contato  
-![Protótipo – Página Contato](img/pagContatolprot.png)
+![Protótipo – Página Contato](img/pagContatoprot.png)
 
   ### Página Detalhes  
 ![Protótipo – Página Detalhes](img/pagDetalhesprot)
