@@ -1,0 +1,243 @@
+/* ---------- CORPO GERAL -----------*/
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFF0D3;
+    display: flex;
+    flex-direction: column;
+}
+header{
+    background-color: #50351E;
+    color: #FFE4B2;
+}
+.containerCabecalho{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+#logo{
+    height: 150px;
+    width: 160px;
+    margin-left: 80px;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    margin-right: 100px;
+}
+h1{
+    margin: 0px;
+    padding: 20px;
+    font-size: 50px;
+}
+.itensMenu{
+    font-size: 30px;
+    text-decoration: none;
+    color: #FFE4B2;
+}
+main {
+    flex: 1;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+/* ---------- PÁGINA INICIAL -----------*/
+.grupoFotos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 60px;
+}
+.titulos{
+    font-size: 35px;
+    background-color: #50351E;
+    color: #FFE4B2;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 30px;
+}
+a{
+    text-decoration: none;
+}
+figure{
+    font-size: 25px;
+    color: #50351E;
+}
+.cafes figure{
+    text-align: center;
+}
+.bolos figure{
+    text-align: center;
+}
+#cardapio {
+    text-align: center;
+}
+#cardapio h3 {
+    display: inline-block;
+    margin-top: 50px;
+    background-color: #50351E;
+    color: #FFE4B2;
+    padding: 15px 25px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: #50351E;
+    padding: 30px;
+    color: #FFE4B2;
+    font-size: 25px;
+}
+
+/* ---------- PÁGINA DETALHES -----------*/
+#capp {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 25px;              
+    margin-top: 170px;
+}
+#imgcapp {
+    width: 300px;
+    height: 300px;
+    border: 4px  solid #50351E;
+}
+#legendacapp {
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+#desc {
+    margin-top: 50px;
+    color:#50351E;
+    font-size: 25px;
+    max-width: 300px;
+    line-height: 1.4;
+   text-align: justify;
+}
+
+/* ---------- PÁGINA SOBRE -----------*/
+.containerSobre {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    margin-top: 150px;
+}
+.titulo-sobre {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: #50351E;
+}
+.infoDeSobre{
+    font-size: 25px;
+    text-align: center;
+    line-height: 1.4;
+    color: #50351E;
+    background-color: #EBE0C6;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+/* ---------- PÁGINA CONTATO -----------*/
+#ccontatos {
+    display: flex;
+    font-size: 30px;
+    justify-content: center; 
+    margin-top: 150px;
+    gap: 200px;
+    color:#50351E;
+}
+.informacoescontato{
+    text-align: center;
+}
+.tituloscontato{
+    text-align: center;
+}
+#mensagem{
+    width: 400px;
+    height: 200px;
+    resize: none;  
+    border: 3px solid #50351E;
+    background-color: #50351eb7;
+    color:#FFE4B2;
+}
+#Enviar, #Cancelar{
+    background-color: #50351E;
+    padding: 10px;
+    color:#FFE4B2;
+    font-size: 15px;
+    border: 3px solid #50351E;
+    border-radius: 10px;
+}
+
+/* ---------- PÁGINA CARDÁPIO -----------*/
+.containerMenu {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    margin-top: 180px;
+}
+.titulo-selecoes {
+    color: #FFE4B2;
+    background-color: #50351E;
+    border-radius: 30px;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.itemMenuSelecao {
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* ---------- PÁGINA ESCOLHA DE CAFÉS -----------*/
+.grupoCafes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.nomeCafes{
+    text-align: center;
+}
+
+/* ---------- PÁGINA ESCOLHA DE BOLOS -----------*/
+.grupoBolos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.nomeBolos{
+    text-align: center;
+}
+
+/* ---------- PÁGINA ESCOLHA DE BOLOS -----------*/
+.grupoChas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.nomeChas{
+    text-align: center;
+}
