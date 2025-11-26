@@ -1,4 +1,4 @@
-# 📌 3.6 Apresentação Final
+# 📌 COMPARAÇÃO
 
 ## 🖼️ Protótipo no Figma  
 ### Página Inicial  
