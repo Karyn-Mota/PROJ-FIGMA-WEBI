@@ -2,7 +2,7 @@
 
 ## 🖼️ Protótipo no Figma  
 ### Página Inicial  
-![Protótipo – Página Inicial](img/pagInicialprot)
+![Protótipo – Página Inicial](img/pagInicialprot.png)
 
 ### Página Contato  
 ![Protótipo – Página Contato](img/pagContatolprot)
